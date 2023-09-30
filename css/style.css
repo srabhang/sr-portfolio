@@ -1,0 +1,47 @@
+.logo-img{
+    border: 2px solid;
+    border-radius: 50px;
+}
+.Resume{
+    margin: auto;
+    margin-left: 10px;
+}
+.bi{
+    position: relative;
+    margin: auto;
+}
+.bi-person-lines-fill{
+    border: 1px solid  ;
+    border-radius: 50px;
+}
+.nav-link{
+    margin-left: 10px;
+}
+.display-img{
+    margin: auto;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+.mx-lg-auto{
+    border: 5px solid gray
+    ;
+    border-radius: 50%;
+
+}
+.name{
+    text-align: center;
+}
+.social-link{
+    margin-top: 20px;
+    justify-content: center;
+}
+.social-logo{
+    position: relative;
+    margin: auto;
+    margin-right: 40px;
+}
+.row{
+    text-align: center;
+}
+
+
